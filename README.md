@@ -4,3 +4,4 @@ Este repositório contém todos os meus projetos desenvolvidos em Node.js para e
 
 ## Projetos
 - [Gerador de Senha](./gerador-senha)
+-(outros projetos furatamente)
